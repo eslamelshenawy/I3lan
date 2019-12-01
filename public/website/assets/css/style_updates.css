@@ -1,0 +1,16 @@
+input[type=checkbox]
+{
+    width: auto !important;
+}
+
+.tr-products .tr-product-thumbnail>a img
+{
+    height: 260px;
+    object-position: center center;
+    object-fit: cover;
+}
+
+.summary-cart
+{
+    border-left: none;
+}
